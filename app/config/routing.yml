@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 expert_acceuil:
     resource: "@ExpertAcceuilBundle/Resources/config/routing.yml"
+=======
+expert_administration:
+    resource: "@ExpertAdministrationBundle/Resources/config/routing.yml"
+>>>>>>> 7829cfdcf82c8f1177da9f3cecba34c3ebf794c0
     prefix:   /
 
