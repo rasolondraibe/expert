@@ -1,0 +1,7 @@
+parameters:
+#    expert_acceuil.example.class: Expert\AcceuilBundle\Example
+
+services:
+#    expert_acceuil.example:
+#        class: %expert_acceuil.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

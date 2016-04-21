@@ -1,0 +1,4 @@
+expert_acceuil:
+    resource: "@ExpertAcceuilBundle/Resources/config/routing.yml"
+    prefix:   /
+
