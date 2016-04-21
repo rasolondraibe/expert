@@ -1,0 +1,4 @@
+expert_administration:
+    resource: "@ExpertAdministrationBundle/Resources/config/routing.yml"
+    prefix:   /
+

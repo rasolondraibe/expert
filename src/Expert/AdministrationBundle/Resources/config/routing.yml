@@ -1,0 +1,3 @@
+expert_administration_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: ExpertAdministrationBundle:Default:index }
